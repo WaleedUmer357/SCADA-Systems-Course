@@ -130,7 +130,7 @@ This project models a power distribution network supplying electricity from a ce
 
 ---
 
- 🛠 Tools & Platforms
+  Tools & Platforms
 
  Schneider Electric SCADAPack x70
  RemoteConnect
@@ -149,7 +149,7 @@ This project models a power distribution network supplying electricity from a ce
 
 ---
 
- 👤 Author
+ Author
 
 Electrical Engineering Graduate | SCADA & Automation Enthusiast
 
